@@ -1,6 +1,5 @@
 import { PrismaClient } from '@prisma/client'
-import IUser from '../interfaces/IPoster'
-import IPost from '../interfaces/IPoster'
+import IPost from '../interfaces/IPost'
 
 const prisma = new PrismaClient()
 

@@ -1,4 +1,4 @@
-import IPost from '../interfaces/IPoster'
+import IPost from '../interfaces/IPost'
 import PostRepository from '../repository/PostRepository'
 
 class PostService {
